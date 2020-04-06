@@ -1,0 +1,11 @@
+# Nodejs
+node_modules
+
+# npm
+package-lock.json
+
+# yarn
+yarn.lock
+
+# environment variables
+.env
