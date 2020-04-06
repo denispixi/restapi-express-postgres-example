@@ -1,7 +1,7 @@
 # restapi-express-postgres-example
 
 * setup a PostgreSQL server and create a test database
-* create a table names test with the following sentence:
+* create a table named test with the following sentence:
   ```
   CREATE TABLE notes (
     id SERIAL PRIMARY KEY,
